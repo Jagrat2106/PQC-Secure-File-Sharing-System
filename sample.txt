@@ -1,2 +1,1 @@
-This is a secure file.
-only authorized people are allowed.
+This is a secure PQC file sharing demo.
