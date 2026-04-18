@@ -11,7 +11,7 @@ A hybrid Post-Quantum Cryptography (PQC)-based secure file sharing system that u
 - Logging support for operations
 - Scalable design for future PQC integration
 
-- ## Project Structure
+## Project Structure
 
 PQC-Secure-File-Sharing-System/
 │
