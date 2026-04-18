@@ -13,18 +13,18 @@ A hybrid Post-Quantum Cryptography (PQC)-based secure file sharing system that u
 
 ## Project Structure
 
-PQC-Secure-File-Sharing-System/
-│
-├── sender.py
-├── receiver.py
-├── pqc_key_exchange.py
-├── files/
-│   ├── sample.txt
-│   ├── encrypted_file.bin
-│   ├── decrypted_file.txt
-│   └── shared_key.bin
-├── logs/
-└── venv312/
+- PQC-Secure-File-Sharing-System/
+- │
+- ├── sender.py
+- ├── receiver.py
+- ├── pqc_key_exchange.py
+- ├── files/
+- │   ├── sample.txt
+- │   ├── encrypted_file.bin
+- │   ├── decrypted_file.txt
+- │   └── shared_key.bin
+- ├── logs/
+- └── venv312/
 
 ## How to Run
 
